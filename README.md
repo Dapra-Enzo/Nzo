@@ -1,6 +1,3 @@
-# Nzo
-
-
 <h1 align="center">Hello everyone , I'm Enzo</h1>
 <h3 align="center">I am a student in Networks and Telecommunications in France, specializing in cloud. Welcome to my GitHub profile!</h3>
 
